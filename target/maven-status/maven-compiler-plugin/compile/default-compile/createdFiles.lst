@@ -1,0 +1,5 @@
+jp/reflexworks/taggingservice/auth/AuthenticatorConst.class
+jp/reflexworks/taggingservice/auth/TaggingUserManager.class
+jp/reflexworks/taggingservice/auth/TOTPUtil.class
+jp/reflexworks/taggingservice/auth/TaggingAuthentication.class
+jp/reflexworks/taggingservice/auth/TaggingAuthenticationManager.class
